@@ -9,8 +9,9 @@
 *   Git, Docker (basic), Linux (basic)
 
 ### Pet Projects
- * <img src="https://img.shields.io/badge/-Django-green"><a href="https://github.com/ProtKsen/wish_lists"> Wish lists. </a> The application allows users to create a collection of things they would like to receive as a gift. Users can add each other as friends and view friends' wishlists. 
- * <img src="https://img.shields.io/badge/-Flask-blue"> <a href="https://github.com/bird-exchange"> BirdExchange. </a> The web appication for using CycleGan network to transform birds.
+<img src="https://img.shields.io/badge/-Django-green"> <a href="https://github.com/ProtKsen/wish_lists"> Wish lists. </a> The application allows users to create a collection of things they would like to receive as a gift. Users can add each other as friends and view friends' wishlists. \
+ 
+<img src="https://img.shields.io/badge/-Flask-blue"> <a href="https://github.com/bird-exchange"> BirdExchange. </a> The web appication for using CycleGan network to transform birds.
 
 
 ### ☎️ Contacts
