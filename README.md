@@ -17,7 +17,7 @@
 ### ☎️ Contacts
 - Telegram: <a href="https://t.me/proksen">@proksen</a>
 - E-mail: protcenko.kseniya@gmail.com
-- LinkedIn: <a href="https://www.linkedin.com/in/kseniia-protsenko-41b8b1231/"> Kseniia Protsenko </a>
+- LinkedIn: <a href="https://www.linkedin.com/in/kseniia-protsenko/"> Kseniia Protsenko </a>
 
 ### 📈 GitHub Statistics 📊
 [![ProtKsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProtKsen)](https://github.com/anuraghazra/github-readme-stats)
