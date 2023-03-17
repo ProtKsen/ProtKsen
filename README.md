@@ -1,7 +1,5 @@
 ### Hi! I'm Kseniia!
 
-🌱 I’m currently learning web development.
-
 ### 🛠 Technical Stack
 *   Python
 *   SQL, PostgreSQL (basic)
