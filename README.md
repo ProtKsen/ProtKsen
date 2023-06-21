@@ -2,9 +2,9 @@
 
 ### 🛠 Technical Stack
 *   Python
-*   SQL, PostgreSQL (basic)
+*   SQL, PostgreSQL
 *   Django, Flask
-*   Git, Docker (basic), Linux (basic)
+*   Git, Docker, Linux
 
 ### :smiley_cat: Pet Projects
 <img src="https://img.shields.io/badge/-Flask-blue"> <img src="https://img.shields.io/badge/-Minio-orange"> <a href="https://github.com/bird-exchange"> BirdExchange. </a> The web appication for using CycleGan network to transform birds.
