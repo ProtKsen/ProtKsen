@@ -23,5 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtKsen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### LeetCode
-[![ProtKsen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ProtKsen)](https://github.com/ProtKsen/leetcode-stats)
+[![ProtKsen's LeetCode stats](https://leetcard.jacoblin.cool/ProtKsen)](https://github.com/ProtKsen/leetcode-stats)
 
